@@ -1,0 +1,1 @@
+{"mappings":"AAAA,IAAI,CAAC,GAAG,MAAM,CAAC,OAAO,CAAC,CAClB,QAAQ,CAAC,OAAO,CAAC;AAEtB,CAAC,CAAC,QAAQ,EAAE,CAAC,KAAK,EAAE","sources":["src/main.js"],"sourcesContent":["let x = jQuery('.test')\r\n    .addClass('green')\r\n\r\nx.children().print()"],"names":[],"version":3,"file":"index.de158e3a.js.map","sourceRoot":"/__parcel_source_root/"}
